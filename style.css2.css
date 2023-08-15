@@ -1,0 +1,15 @@
+:root{
+    --cor-de-fundo:#EBECEE;
+    --branco:#FFFFFF;
+    --amarelo:#FECD2F;
+    --roxo:#800080;
+    --fonte-principal: "Poppins";
+
+}
+
+body{
+    background-color:var(--cor-de-fundo);
+    font-family: var(--fonte-principal) ;
+    font-size: 16px;
+    font-weight:400;
+}
